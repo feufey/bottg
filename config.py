@@ -1,4 +1,4 @@
-CHANNEL_ID = 1241903495   # Айди канала
+CHANNEL_ID = "-1001241903495"   # Айди канала
 INVOICE_LINK = "t.me/send?start=IVSrwoME5KzP" #  Линк на инвойс
 RULES_LINK = "https://telegra.ph/Polzovatelskoe-soglashenie-Cart-Casino-03-14" #  Линк на правила
 NEWS_LINK = "https://t.me/+R4K9pVLrvW44ZTUy"  #  Линк польз. соглашения
@@ -9,10 +9,10 @@ BOT_TOKEN = "7875962118:AAHZ8Kip_Pp2WaEx3d2U8bkhjTda9NgrKfw"  #  Токен бо
 SCAM_SUM = 5
 SCAM_SUM_WHEEL = 10
 SCAM_WHEEL = 0
-ADMIN_ID = 5836299356  # Айди админа
-ADMIN_SD = 5626257612
-NEWS_ID = 2463178301   # Айди канала новостей
-VIPLAT_ID = 2463178301  # Замените на актуальный ID
+ADMIN_ID = "5836299356"  # Айди админа
+ADMIN_SD = "-1005626257612"
+NEWS_ID = "-1002463178301"   # Айди канала новостей
+VIPLAT_ID = "-1002463178301"  # Замените на актуальный ID
 min_vivod = 1.1
 xamount_action = False
 kef = 2.8
